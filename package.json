@@ -1,0 +1,14 @@
+{
+  "name": "instagram-username-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "node index.js",
+    "build": "npx tsc"
+  },
+  "dependencies": {
+    "axios": "^1.2.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
