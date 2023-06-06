@@ -1,7 +1,10 @@
 {
   "name": "instagram-username-checker",
   "version": "1.0.0",
-  "description": "",
+  "description": "just a nodejs terminal to check instagram username availability",
+  "repository": "https://github.com/guustavocl/instagram-username-checker",
+  "author": "@guustavocl - https://gus.sh/",
+  "license": "MIT",
   "main": "src/index.ts",
   "scripts": {
     "dev": "node index.js",
